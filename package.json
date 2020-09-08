@@ -1,0 +1,30 @@
+{
+  "name": "excelonjs",
+  "version": "1.0.0",
+  "description": "Excel on JS",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seybo/excelonjs.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Mirzoyan Mikhail <michaelatworkspace@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seybo/excelonjs/issues"
+  },
+  "homepage": "https://github.com/Seybo/excelonjs#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
